@@ -7,10 +7,10 @@ p{
 	clear:right;
 }
 section{
-	//margin:5px;
+	margin:10px;
 	padding:10px;
 	border:solid 1px black;
-	width : 33.33%;
+	width : 30%;
 	float : left;
 	background-color: rgb(170, 164, 164);
 	
@@ -44,19 +44,19 @@ article{
 
 @media (min-width:992px){
 	section{
-		width:30%;
+		width:31%;
 	}
 }
 @media (min-width:768px) and (max-width:991px){
 #p1,#p2{
-	width:50%
+	width:47%
 }
 #p3{
-	width:100%
+	width:96%
 }
 }
 @media (max-width:767px){
 	section{
-		width:100%;
+		width:95%;
 	}
 }
